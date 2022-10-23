@@ -59,8 +59,13 @@ Like most applications, this applications presents room for improvements.
 ## How to launch application
 
 1. Confirm that django is installed
+   * In the terminal create a new directory called learning_log
+   * Switch to directory in terminal
+   * Then type python -m venv ll_env
+   * In Windows terminal enter ll_env\Scripts\activate
+   * After activating virtual environment enter pip install django
+   * Once django is install the output should say Successfully installed django-2.x.x pytz-xxx.x sqlparse-0.x.x
 2. Clone the code: `git clone https://github.com/thomag2022/Project`
-3. Run command prompt in the folder and run `npm install` to install all dependencies
-4. Once installed run the command `python manage.py runserver`
-5. In your browser go to `localhost:8000`
-6. The application should now be available and thank you for viewing!
+3. Once installed run the command `python manage.py runserver`
+4. In your browser go to `localhost:8000`
+5. The application should now be available and thank you for viewing!
