@@ -59,7 +59,7 @@ Like most applications, this applications presents room for improvements.
 ## How to launch application
 
 1. Confirm that django is installed
-2. Clone the code: `git clone https://github.com/RokasDie/cs50-final-project.git`
+2. Clone the code: `git clone https://github.com/thomag2022/Project`
 3. Run command prompt in the folder and run `npm install` to install all dependencies
 4. Once installed run the command `python manage.py runserver`
 5. In your browser go to `localhost:8000`
